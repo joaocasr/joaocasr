@@ -1,5 +1,7 @@
 ### Hi! Nice to meet you
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khonsupp/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1) ![Views](https://komarev.com/ghpvc/?username=joaocasr&color=dc143c&label=VIEWS)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/khonsupp/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1) 
+[![AtCoder](https://run.kaist.ac.kr/badges/atcoder/topology.svg)]
+![Views](https://komarev.com/ghpvc/?username=joaocasr&color=dc143c&label=VIEWS)
 
 
 
