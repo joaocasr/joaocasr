@@ -6,8 +6,7 @@
 
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight) 
 
-
-### IDE's That I Use : ![](https://img.shields.io/badge/VIM-IDE-informational?style=flat&logo=vim&logoColor=black&color=2bbc8a) ![Sublime Text](https://img.shields.io/badge/SUBLIME-IDE-informational?style=flat&logo=sublime-text&logoColor=black&color=2bbc8a) ![](https://img.shields.io/badge/CLion-IDE-informational?style=flat&logo=clion&logoColor=black&color=2bbc8a) ![](https://img.shields.io/badge/Android_Studio-IDE-informational?style=flat&logo=android-studio&logoColor=black&color=2bbc8a)![bb77d43456491a4c808cf3079267ae34](https://user-images.githubusercontent.com/73347405/142746424-ea5bc281-beb4-4a93-88db-6ad1b0fe1e9c.gif)
+![](https://img.shields.io/badge/VIM-IDE-informational?style=flat&logo=vim&logoColor=black&color=2bbc8a) ![Sublime Text](https://img.shields.io/badge/SUBLIME-IDE-informational?style=flat&logo=sublime-text&logoColor=black&color=2bbc8a) ![](https://img.shields.io/badge/CLion-IDE-informational?style=flat&logo=clion&logoColor=black&color=2bbc8a) ![](https://img.shields.io/badge/Android_Studio-IDE-informational?style=flat&logo=android-studio&logoColor=black&color=2bbc8a)![bb77d43456491a4c808cf3079267ae34](https://user-images.githubusercontent.com/73347405/142746424-ea5bc281-beb4-4a93-88db-6ad1b0fe1e9c.gif)
 
 <!--
 **joaocasr/joaocasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
