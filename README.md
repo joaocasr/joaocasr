@@ -1,5 +1,7 @@
 ### Hi! Nice to meet you
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1)  ![bb77d43456491a4c808cf3079267ae34](https://user-images.githubusercontent.com/73347405/142746424-ea5bc281-beb4-4a93-88db-6ad1b0fe1e9c.gif)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1) 
+![](https://img.shields.io/badge/AC-AtCoder-181717?style=for-the-badge)
+![bb77d43456491a4c808cf3079267ae34](https://user-images.githubusercontent.com/73347405/142746424-ea5bc281-beb4-4a93-88db-6ad1b0fe1e9c.gif)
 
 
 
