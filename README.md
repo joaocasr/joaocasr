@@ -1,7 +1,7 @@
 Hi! Nice to meet you 👋
 ====
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+<!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
 
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight)
 
