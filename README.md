@@ -1,7 +1,7 @@
 Hi! Nice to meet you 👋
 ====
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1)
-<a href="mailto:joaoppc2002@gmail.com?Subject=[GIT] Subject ? "><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="João Castro | Gmail" width="90px"/></a>
+<a href="mailto:joaoppc2002@gmail.com?Subject=Subject"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="João Castro | Gmail" width="90px"/></a>
 <!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
 
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight)
