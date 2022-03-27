@@ -5,12 +5,19 @@ Hi! Nice to meet you 👋
 <!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
 
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&redirect=true)
 
 ### Tools & IDE's
 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/haskell/haskell-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/haskell/haskell-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" /> <br />
+
+ ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+
+
+
 <!--Hi! Nice to meet you
 ====
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1) 
