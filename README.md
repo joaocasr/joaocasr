@@ -5,7 +5,7 @@ Hi! Nice to meet you 👋
 <!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
 
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&cover_image=false&theme=default)](https://open.spotify.com/user/21yiujzdh4uis4d57llofbqea)
 
 ### Tools & IDE's
 
