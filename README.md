@@ -1,13 +1,6 @@
-Hi! Nice to meet you 👋
-====
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/castro_JP?hr_r=1)
-<a href="mailto:joaoppc2002@gmail.com?Subject=Subject"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="João Castro | Gmail" width="90px"/></a>
-<!--![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)-->
-
 ![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yiujzdh4uis4d57llofbqea&cover_image=false&theme=default)](https://open.spotify.com/user/21yiujzdh4uis4d57llofbqea)
 
-### Tools & IDE's
+## Tools & IDE's
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/haskell/haskell-original.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" /><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" /> <br />
