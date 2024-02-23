@@ -1,10 +1,8 @@
-<img width="500px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<!--<img width="500px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />-->
 
 ## GitHub Stats
 
-![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocasr&layout=compact&theme=radical)](https://github.com/joaocasr)
-
-
+![joaocasr's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocasr&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaocasr&langs_count=7&theme=tokyonight&hide=jupyter%20notebook,Roff,Assembly&layout=compact)](https://github.com/joaocasr/github-readme-stats)
 
 <!--Hi! Nice to meet you
 ====
